@@ -2,6 +2,9 @@
 
 A Simple CLI for rapidly building APIs and Mocks based on Waterline.
 
+Based on (and forked from) [ember-cli](https://github.com/ember-cli/ember-cli) with great love and appreciation.
+Potentially, lessons learned will be abstracted into a [shared code base for building advanced CLIs](https://github.com/Appyre/divine-cli).
+
 ## Installation
 
 ```
