@@ -1,0 +1,10 @@
+{
+  "name": "driven",
+  "version": "0.0.0",
+  "description": "in-repo addon used to override ember-cli core commands generate a driven api",
+  "author": "Chris Thoburn (@runspired)",
+  "license": "MIT",
+  "keywords": [
+    "ember-addon"
+  ]
+}
