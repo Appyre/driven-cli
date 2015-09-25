@@ -1,6 +1,6 @@
 {
   "name": "drive-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/cli/index.js",
   "description": "A Simple CLI for rapidly building APIs and Mocks based on Waterline.",
   "bin": {
