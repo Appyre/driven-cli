@@ -1,0 +1,24 @@
+{
+  "name": "driven-cli",
+  "version": "0.0.1",
+  "description": "A Simple CLI for rapidly building APIs with Driven",
+  "main": "lib/cli/index.js",
+  "scripts": {
+    "test": "node tests/runner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appyre/driven-cli.git"
+  },
+  "keywords": [
+    "driven",
+    "api",
+    "cli"
+  ],
+  "author": "Chris Thoburn and driven-cli contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Appyre/driven-cli/issues"
+  },
+  "homepage": "https://github.com/Appyre/driven-cli#readme"
+}
