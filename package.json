@@ -1,6 +1,6 @@
 {
   "name": "driven-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Simple CLI for rapidly building APIs with Driven",
   "main": "lib/cli/index.js",
   "scripts": {
