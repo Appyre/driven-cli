@@ -7,6 +7,9 @@
   "scripts": {
     "test": "node tests/runner"
   },
+  "bin": {
+    "driven": "./bin/driven"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Appyre/driven-cli.git"
