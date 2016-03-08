@@ -1,0 +1,16 @@
+{
+  "name": "<%= packageName %>",
+  "version": "1.0.0",
+  "license": "MIT",
+  "angular-cli": {},
+  "scripts": {
+    "start": "driven server"
+  },
+  "private": true,
+  "dependencies": {
+    "driven-api": "0.1.0"
+  },
+  "devDependencies": {
+    "driven-cli": "0.*.*"
+  }
+}

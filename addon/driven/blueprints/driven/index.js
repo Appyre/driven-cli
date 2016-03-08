@@ -1,15 +1,12 @@
-/*jshint node:true*/
+var stringUtils = require('ember-cli/lib/utilities/string');
+
 module.exports = {
-  description: ''
+  description: '',
 
-  // locals: function(options) {
-  //   // Return custom template variables here.
-  //   return {
-  //     foo: options.entity.options.foo
-  //   };
-  // }
-
-  // afterInstall: function(options) {
-  //   // Perform extra work here.
-  // }
+  locals: function(options) {
+     // Return custom template variables here.
+     return {
+       packageName: stringUtils.dasherize(options.entity.name)
+     };
+  }
 };
